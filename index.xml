@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Quantitative Data Analytics on QDA</title>
-    <link>https://qda-vu.github.io/</link>
+    <link>https://vu-qda.github.io/</link>
     <description>Recent content in Quantitative Data Analytics on QDA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://qda-vu.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://vu-qda.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
