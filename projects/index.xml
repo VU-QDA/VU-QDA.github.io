@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on QDA</title>
+    <link>https://vu-qda.github.io/projects/</link>
+    <description>Recent content in Projects on QDA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 14 Aug 2020 14:48:39 +0200</lastBuildDate>
+    
+	<atom:link href="https://vu-qda.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>New Project : Rise of the Projects</title>
+      <link>https://vu-qda.github.io/projects/new-project/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://vu-qda.github.io/projects/new-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Project for testing purposes</title>
+      <link>https://vu-qda.github.io/projects/testproject/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://vu-qda.github.io/projects/testproject/</guid>
+      <description>&lt;p&gt;This is a test project. Do you like it?&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

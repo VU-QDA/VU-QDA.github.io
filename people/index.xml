@@ -1,42 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Quantitative Data Analytics on QDA</title>
-    <link>https://vu-qda.github.io/</link>
-    <description>Recent content in Quantitative Data Analytics on QDA</description>
+    <title>People on QDA</title>
+    <link>https://vu-qda.github.io/people/</link>
+    <description>Recent content in People on QDA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Aug 2020 13:56:16 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2020 14:48:10 +0200</lastBuildDate>
     
-	<atom:link href="https://vu-qda.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://vu-qda.github.io/people/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Newsitem</title>
-      <link>https://vu-qda.github.io/news/newsitem/</link>
-      <pubDate>Tue, 18 Aug 2020 13:56:16 +0200</pubDate>
-      
-      <guid>https://vu-qda.github.io/news/newsitem/</guid>
-      <description>Something new happened!</description>
-    </item>
-    
-    <item>
-      <title>New Project : Rise of the Projects</title>
-      <link>https://vu-qda.github.io/projects/new-project/</link>
-      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://vu-qda.github.io/projects/new-project/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Project for testing purposes</title>
-      <link>https://vu-qda.github.io/projects/testproject/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://vu-qda.github.io/projects/testproject/</guid>
-      <description>&lt;p&gt;This is a test project. Do you like it?&lt;/p&gt;</description>
-    </item>
     
     <item>
       <title></title>
