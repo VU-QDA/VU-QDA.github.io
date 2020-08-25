@@ -6,10 +6,28 @@
     <description>Recent content in Quantitative Data Analytics on QDA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Aug 2020 13:56:16 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2020 17:42:29 +0200</lastBuildDate>
     
 	<atom:link href="https://vu-qda.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>My Fance Project Title</title>
+      <link>https://vu-qda.github.io/projects/even-more-projects/</link>
+      <pubDate>Tue, 25 Aug 2020 17:42:29 +0200</pubDate>
+      
+      <guid>https://vu-qda.github.io/projects/even-more-projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>My Fance Project Title</title>
+      <link>https://vu-qda.github.io/projects/yet-another-projec/</link>
+      <pubDate>Tue, 25 Aug 2020 17:42:06 +0200</pubDate>
+      
+      <guid>https://vu-qda.github.io/projects/yet-another-projec/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Newsitem</title>
@@ -54,6 +72,24 @@ Isn&amp;rsquo;t that awesome</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://vu-qda.github.io/people/eoin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://vu-qda.github.io/people/jan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vu-qda.github.io/people/jan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://vu-qda.github.io/people/luca/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vu-qda.github.io/people/luca/</guid>
       <description></description>
     </item>
     
