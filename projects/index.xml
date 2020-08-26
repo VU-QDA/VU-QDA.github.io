@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>Reinforcement Learning in Regulated Domains</title>
+      <link>https://vu-qda.github.io/projects/constrained-rl-in-regulated-domains/</link>
+      <pubDate>Wed, 26 Aug 2020 11:17:59 +0200</pubDate>
+      
+      <guid>https://vu-qda.github.io/projects/constrained-rl-in-regulated-domains/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>My Fance Project Title</title>
       <link>https://vu-qda.github.io/projects/even-more-projects/</link>
       <pubDate>Tue, 25 Aug 2020 17:42:29 +0200</pubDate>
@@ -36,15 +45,6 @@
       
       <guid>https://vu-qda.github.io/projects/new-project/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Project for testing purposes</title>
-      <link>https://vu-qda.github.io/projects/testproject/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://vu-qda.github.io/projects/testproject/</guid>
-      <description>&lt;p&gt;This is a test project. Do you like it?&lt;/p&gt;</description>
     </item>
     
   </channel>

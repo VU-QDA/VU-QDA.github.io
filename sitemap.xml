@@ -3,14 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://vu-qda.github.io/projects/even-more-projects/</loc>
-    <lastmod>2020-08-25T17:42:29+02:00</lastmod>
+    <loc>https://vu-qda.github.io/</loc>
+    <lastmod>2020-08-26T11:17:59+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://vu-qda.github.io/</loc>
+    <loc>https://vu-qda.github.io/projects/constrained-rl-in-regulated-domains/</loc>
+    <lastmod>2020-08-26T11:17:59+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://vu-qda.github.io/projects/even-more-projects/</loc>
     <lastmod>2020-08-25T17:42:29+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -59,32 +66,55 @@
   </url>
   
   <url>
-    <loc>https://vu-qda.github.io/projects/testproject/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <loc>https://vu-qda.github.io/people/ali_el_hassouni/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://vu-qda.github.io/people/ali/</loc>
+    <loc>https://vu-qda.github.io/people/david_romero_guzman/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://vu-qda.github.io/people/eoin/</loc>
+    <loc>https://vu-qda.github.io/people/eoin_grua/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://vu-qda.github.io/people/jan/</loc>
+    <loc>https://vu-qda.github.io/people/frank_bennis/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://vu-qda.github.io/people/luca/</loc>
+    <loc>https://vu-qda.github.io/people/jan_klein/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://vu-qda.github.io/people/luca_roggeveen/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://vu-qda.github.io/people/lucas_fleuren/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://vu-qda.github.io/people/luis_silvestrin/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://vu-qda.github.io/people/masoume_raeissi/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -102,7 +132,7 @@
   </url>
   
   <url>
-    <loc>https://vu-qda.github.io/people/floris/</loc>
+    <loc>https://vu-qda.github.io/people/floris_den_hengst/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
