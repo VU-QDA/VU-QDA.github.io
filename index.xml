@@ -35,8 +35,10 @@
       <pubDate>Tue, 18 Aug 2020 13:56:16 +0200</pubDate>
       
       <guid>https://vu-qda.github.io/news/newsitem/</guid>
-      <description>Something new happened!
-Isn&amp;rsquo;t that awesome</description>
+      <description>&lt;p&gt;Something new happened! You can write about it in a markdown document, which then gets rendered in
+HTML. A summary is generated automatically and displayed on places where a list of news items is
+shown. If you prefer to override the default behavior, you can enforce the end of the summary with
+a specific tag.&lt;/p&gt;</description>
     </item>
     
     <item>
