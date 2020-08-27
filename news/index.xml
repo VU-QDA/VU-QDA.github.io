@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>News on QDA</title>
+    <title>News on Quantitative Data Analytics</title>
     <link>https://vu-qda.github.io/news/</link>
-    <description>Recent content in News on QDA</description>
+    <description>Recent content in News on Quantitative Data Analytics</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 14 Aug 2020 14:49:37 +0200</lastBuildDate>
