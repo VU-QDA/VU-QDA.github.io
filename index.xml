@@ -141,13 +141,21 @@ a specific tag.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Big Boss</title>
+      <title>PhD student</title>
+      <link>https://vu-qda.github.io/people/floris_den_hengst/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vu-qda.github.io/people/floris_den_hengst/</guid>
+      <description>Floris den Hengst is a PhD. student in the Quantitative Data Analytics and Knowledge Representation and Reasoning groups of the Vrije Universiteit Amsterdam.</description>
+    </item>
+    
+    <item>
+      <title>Professor</title>
       <link>https://vu-qda.github.io/people/mark/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://vu-qda.github.io/people/mark/</guid>
-      <description>Mark is the biggest boss.
-Location 10A-87 of the NU.VU building
+      <description>Location 10A-87 of the NU.VU building
 Address Dr. Mark Hoogendoorn
 Vrije Universiteit Amsterdam
 Faculty of Science
@@ -155,15 +163,6 @@ Department of Computer Science
 De Boelelaan 1111
 1081 HV Amsterdam
 The Netherlands</description>
-    </item>
-    
-    <item>
-      <title>PhD student</title>
-      <link>https://vu-qda.github.io/people/floris_den_hengst/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vu-qda.github.io/people/floris_den_hengst/</guid>
-      <description>Floris den Hengst is a PhD. student in the Quantitative Data Analytics and Knowledge Representation and Reasoning groups of the Vrije Universiteit Amsterdam.</description>
     </item>
     
   </channel>
