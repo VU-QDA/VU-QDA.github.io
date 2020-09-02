@@ -39,6 +39,18 @@
     </item>
     
     <item>
+      <title>Newsitem</title>
+      <link>https://vu-qda.github.io/news/newsitem/</link>
+      <pubDate>Tue, 18 Aug 2020 13:56:16 +0200</pubDate>
+      
+      <guid>https://vu-qda.github.io/news/newsitem/</guid>
+      <description>&lt;p&gt;Something new happened! You can write about it in a markdown document, which then gets rendered in
+HTML. A summary is generated automatically and displayed on places where a list of news items is
+shown. If you prefer to override the default behavior, you can enforce the end of the summary with
+a specific tag.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>New Project : Rise of the Projects</title>
       <link>https://vu-qda.github.io/projects/new-project/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
@@ -125,7 +137,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://vu-qda.github.io/people/floris_den_hengst/</guid>
-      <description>Floris den Hengst is a PhD. student in the Quantitative Data Analytics and Knowledge Representation and Reasoning groups of the Vrije Universiteit Amsterdam.</description>
+      <description>Floris den Hengst is a PhD. student in the Quantitative Data Analytics and Knowledge Representation and Reasoning groups of the Vrije Universiteit Amsterdam. He works on safety and efficiency of RL algorithms.</description>
     </item>
     
     <item>
