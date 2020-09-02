@@ -31,13 +31,6 @@
   </url>
   
   <url>
-    <loc>https://vu-qda.github.io/news/newsitem/</loc>
-    <lastmod>2020-08-18T13:56:16+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://vu-qda.github.io/news/</loc>
     <lastmod>2020-08-14T14:49:37+02:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -108,12 +101,6 @@
   </url>
   
   <url>
-    <loc>https://vu-qda.github.io/people/luis_silvestrin/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://vu-qda.github.io/people/masoume_raeissi/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -127,6 +114,12 @@
   
   <url>
     <loc>https://vu-qda.github.io/people/floris_den_hengst/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://vu-qda.github.io/people/luis_silvestrin/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
