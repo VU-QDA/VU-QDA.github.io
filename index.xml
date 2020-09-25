@@ -6,11 +6,7 @@
     <description>Recent content on Quantitative Data Analytics</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 26 Aug 2020 11:17:59 +0200</lastBuildDate>
-    
-	<atom:link href="https://vu-qda.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 26 Aug 2020 11:17:59 +0200</lastBuildDate><atom:link href="https://vu-qda.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Reinforcement Learning in Regulated Domains</title>
       <link>https://vu-qda.github.io/projects/constrained-rl-in-regulated-domains/</link>
@@ -88,15 +84,6 @@ a specific tag.&lt;/p&gt;</description>
     
     <item>
       <title></title>
-      <link>https://vu-qda.github.io/people/frank_bennis/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vu-qda.github.io/people/frank_bennis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>https://vu-qda.github.io/people/jan_klein/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -163,6 +150,15 @@ The Netherlands</description>
       
       <guid>https://vu-qda.github.io/people/luis_silvestrin/</guid>
       <description>Luis is a PhD student at the Vrije Universiteit Amsterdam, working in the Quantitative Data Analytics group. His main research focus is in Deep Learning algorithms to sensorial data and time-series.</description>
+    </item>
+    
+    <item>
+      <title>Postdoc</title>
+      <link>https://vu-qda.github.io/people/frank_bennis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vu-qda.github.io/people/frank_bennis/</guid>
+      <description>Frank Bennis started in September 2020 as a postdoctoral researcher in the Quantitative Data Analytics group under supervision of dr. Mark Hoogendoorn. He focuses on the identification of parameters and subsequently the prediction of Sudden Cardiac Death in patients based on general practicioner (GP) data. He furthermore collaborates with the Nederlands Instituut voor Onderzoek van de Gezondheidszorg for the prediction of multiple cardiac diseases from GP data. With his background in Technical Medicine, he aims to establish the connection between data science and medicine.</description>
     </item>
     
   </channel>
