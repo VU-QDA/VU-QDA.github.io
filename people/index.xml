@@ -18,15 +18,6 @@
     
     <item>
       <title></title>
-      <link>https://vu-qda.github.io/people/david_romero_guzman/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vu-qda.github.io/people/david_romero_guzman/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>https://vu-qda.github.io/people/eoin_grua/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -49,15 +40,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://vu-qda.github.io/people/lucas_fleuren/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://vu-qda.github.io/people/masoume_raeissi/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vu-qda.github.io/people/masoume_raeissi/</guid>
       <description></description>
     </item>
     
@@ -105,12 +87,31 @@ The Netherlands</description>
     </item>
     
     <item>
+      <title>PhD. Student</title>
+      <link>https://vu-qda.github.io/people/david_w_romero/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vu-qda.github.io/people/david_w_romero/</guid>
+      <description>I am a 2nd year PhD Student at the Vrije Universiteit Amsterdam under supervision of Jakub Tomczak and Mark Hoogendoorn. My research is focused on the development of efficient deep learning architectures, particularly towards settings with scarce (labeled) data availability. To this end, I am specially interested in neural architectures involving (1) extensive parameter sharing (e.g. equivariant networks) and (2) attention mechanisms.
+My research is founded by the NWO as part of the Efficient Deep Learning project.</description>
+    </item>
+    
+    <item>
       <title>Postdoc</title>
       <link>https://vu-qda.github.io/people/frank_bennis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://vu-qda.github.io/people/frank_bennis/</guid>
       <description>Frank Bennis started in September 2020 as a postdoctoral researcher in the Quantitative Data Analytics group under supervision of dr. Mark Hoogendoorn. He focuses on the identification of parameters and subsequently the prediction of Sudden Cardiac Death in patients based on general practicioner (GP) data. He furthermore collaborates with the Nederlands Instituut voor Onderzoek van de Gezondheidszorg for the prediction of multiple cardiac diseases from GP data. With his background in Technical Medicine, he aims to establish the connection between data science and medicine.</description>
+    </item>
+    
+    <item>
+      <title>Postdoctoral Researcher</title>
+      <link>https://vu-qda.github.io/people/masoume_raeissi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vu-qda.github.io/people/masoume_raeissi/</guid>
+      <description></description>
     </item>
     
   </channel>

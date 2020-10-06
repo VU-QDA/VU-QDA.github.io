@@ -72,12 +72,6 @@
   </url>
   
   <url>
-    <loc>https://vu-qda.github.io/people/david_romero_guzman/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://vu-qda.github.io/people/eoin_grua/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -91,12 +85,6 @@
   
   <url>
     <loc>https://vu-qda.github.io/people/lucas_fleuren/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://vu-qda.github.io/people/masoume_raeissi/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -132,7 +120,19 @@
   </url>
   
   <url>
+    <loc>https://vu-qda.github.io/people/david_w_romero/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://vu-qda.github.io/people/frank_bennis/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://vu-qda.github.io/people/masoume_raeissi/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
