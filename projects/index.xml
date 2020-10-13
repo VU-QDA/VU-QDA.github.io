@@ -6,40 +6,17 @@
     <description>Recent content in Projects on Quantitative Data Analytics</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 Aug 2020 14:48:39 +0200</lastBuildDate><atom:link href="https://vu-qda.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 14 Aug 2020 14:48:39 +0200</lastBuildDate>
+    
+	<atom:link href="https://vu-qda.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Reinforcement Learning in Regulated Domains</title>
       <link>https://vu-qda.github.io/projects/constrained-rl-in-regulated-domains/</link>
       <pubDate>Wed, 26 Aug 2020 11:17:59 +0200</pubDate>
       
       <guid>https://vu-qda.github.io/projects/constrained-rl-in-regulated-domains/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>My Fance Project Title</title>
-      <link>https://vu-qda.github.io/projects/even-more-projects/</link>
-      <pubDate>Tue, 25 Aug 2020 17:42:29 +0200</pubDate>
-      
-      <guid>https://vu-qda.github.io/projects/even-more-projects/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>My Fance Project Title</title>
-      <link>https://vu-qda.github.io/projects/yet-another-projec/</link>
-      <pubDate>Tue, 25 Aug 2020 17:42:06 +0200</pubDate>
-      
-      <guid>https://vu-qda.github.io/projects/yet-another-projec/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>New Project : Rise of the Projects</title>
-      <link>https://vu-qda.github.io/projects/new-project/</link>
-      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://vu-qda.github.io/projects/new-project/</guid>
       <description></description>
     </item>
     

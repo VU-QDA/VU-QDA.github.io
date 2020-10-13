@@ -6,31 +6,17 @@
     <description>Recent content on Quantitative Data Analytics</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 26 Aug 2020 11:17:59 +0200</lastBuildDate><atom:link href="https://vu-qda.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 26 Aug 2020 11:17:59 +0200</lastBuildDate>
+    
+	<atom:link href="https://vu-qda.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Reinforcement Learning in Regulated Domains</title>
       <link>https://vu-qda.github.io/projects/constrained-rl-in-regulated-domains/</link>
       <pubDate>Wed, 26 Aug 2020 11:17:59 +0200</pubDate>
       
       <guid>https://vu-qda.github.io/projects/constrained-rl-in-regulated-domains/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>My Fance Project Title</title>
-      <link>https://vu-qda.github.io/projects/even-more-projects/</link>
-      <pubDate>Tue, 25 Aug 2020 17:42:29 +0200</pubDate>
-      
-      <guid>https://vu-qda.github.io/projects/even-more-projects/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>My Fance Project Title</title>
-      <link>https://vu-qda.github.io/projects/yet-another-projec/</link>
-      <pubDate>Tue, 25 Aug 2020 17:42:06 +0200</pubDate>
-      
-      <guid>https://vu-qda.github.io/projects/yet-another-projec/</guid>
       <description></description>
     </item>
     
@@ -44,15 +30,6 @@
 HTML. A summary is generated automatically and displayed on places where a list of news items is
 shown. If you prefer to override the default behavior, you can enforce the end of the summary with
 a specific tag.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>New Project : Rise of the Projects</title>
-      <link>https://vu-qda.github.io/projects/new-project/</link>
-      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://vu-qda.github.io/projects/new-project/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -159,7 +136,7 @@ My research is founded by the NWO as part of the Efficient Deep Learning project
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://vu-qda.github.io/people/masoume_raeissi/</guid>
-      <description></description>
+      <description>My areas of education is computer science, artificial intelligence, and robotic. My research mainly focuses on sequential decision making and reinforcement learning in multi-agent systems, where uncertainties, partial observations and multiple actors are the main challenges in such systems. Currently I am working on Deep Reinforcement Learning for Critical Decision Making on Covid-19 patients. It is a joint research project at Amsterdam UMC Intensive Care Unit and QDA group of Vrije Universiteit Amsterdam.</description>
     </item>
     
   </channel>
