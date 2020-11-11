@@ -6,11 +6,7 @@
     <description>Recent content in Projects on Quantitative Data Analytics</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 Aug 2020 14:48:39 +0200</lastBuildDate>
-    
-	<atom:link href="https://vu-qda.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 14 Aug 2020 14:48:39 +0200</lastBuildDate><atom:link href="https://vu-qda.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Reinforcement Learning in Regulated Domains</title>
       <link>https://vu-qda.github.io/projects/constrained-rl-in-regulated-domains/</link>
