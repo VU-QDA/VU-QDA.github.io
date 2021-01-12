@@ -6,26 +6,93 @@
     <description>Recent content on Quantitative Data Analytics</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 26 Aug 2020 11:17:59 +0200</lastBuildDate><atom:link href="https://vu-qda.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 Jan 2021 17:29:01 +0100</lastBuildDate>
+    
+	<atom:link href="https://vu-qda.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>EFRO Smart Maintenance</title>
+      <link>https://vu-qda.github.io/projects/efro/</link>
+      <pubDate>Tue, 12 Jan 2021 17:29:01 +0100</pubDate>
+      
+      <guid>https://vu-qda.github.io/projects/efro/</guid>
+      <description>&lt;p&gt;In this project, funded by the EU (EFRO), the goal is to use and improve machine learning techniques for predictive maintenance and optimization of maintenance.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Efficient Deep Learning</title>
+      <link>https://vu-qda.github.io/projects/efficient-dl/</link>
+      <pubDate>Tue, 12 Jan 2021 17:21:38 +0100</pubDate>
+      
+      <guid>https://vu-qda.github.io/projects/efficient-dl/</guid>
+      <description>&lt;p&gt;In this project, funded by NWO (TTW), the goal is to improve the efficiency of deep learning algorithms.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>PIPPI</title>
+      <link>https://vu-qda.github.io/projects/pippi/</link>
+      <pubDate>Tue, 12 Jan 2021 17:19:39 +0100</pubDate>
+      
+      <guid>https://vu-qda.github.io/projects/pippi/</guid>
+      <description>&lt;p&gt;This project concerns the identification of risk models for mental health problems among children and adolescents using data from general practitioners and the municipality health services.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>RESCUED</title>
+      <link>https://vu-qda.github.io/projects/rescued/</link>
+      <pubDate>Tue, 12 Jan 2021 17:19:03 +0100</pubDate>
+      
+      <guid>https://vu-qda.github.io/projects/rescued/</guid>
+      <description>&lt;p&gt;The identification of risk factors for cardiac arrest among diabetes patients is the main goal of this project.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Predictive Modeling for Outlier Detection</title>
+      <link>https://vu-qda.github.io/projects/predictive-modeling-for-outlier-detection/</link>
+      <pubDate>Tue, 12 Jan 2021 17:17:49 +0100</pubDate>
+      
+      <guid>https://vu-qda.github.io/projects/predictive-modeling-for-outlier-detection/</guid>
+      <description>&lt;p&gt;Predictive modeling for outlier detection for large datasets.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Machine Learning for Intensive Care</title>
+      <link>https://vu-qda.github.io/projects/ml-for-ic/</link>
+      <pubDate>Tue, 12 Jan 2021 17:14:34 +0100</pubDate>
+      
+      <guid>https://vu-qda.github.io/projects/ml-for-ic/</guid>
+      <description>&lt;p&gt;This project aims to develop predictive models based on Electronic Medical Records for the Intensive Care department at the VU University Medical Center using machine learning techniques.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Constrained Personalization of Smart Health Apps</title>
+      <link>https://vu-qda.github.io/projects/constrained-personalization-of-smart-health-apps/</link>
+      <pubDate>Tue, 12 Jan 2021 17:13:24 +0100</pubDate>
+      
+      <guid>https://vu-qda.github.io/projects/constrained-personalization-of-smart-health-apps/</guid>
+      <description>&lt;p&gt;In this project, we aim to develop techniques to personalize within certain boundaries.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Personalized Smart Health Apps</title>
+      <link>https://vu-qda.github.io/projects/personalized-smart-health-apps/</link>
+      <pubDate>Tue, 12 Jan 2021 17:10:24 +0100</pubDate>
+      
+      <guid>https://vu-qda.github.io/projects/personalized-smart-health-apps/</guid>
+      <description>&lt;p&gt;This project aims to develop techniques to learn to provide feedback and
+support to users in an effective way by means of health apps on their smart
+phone.&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>Reinforcement Learning in Regulated Domains</title>
       <link>https://vu-qda.github.io/projects/constrained-rl-in-regulated-domains/</link>
       <pubDate>Wed, 26 Aug 2020 11:17:59 +0200</pubDate>
       
       <guid>https://vu-qda.github.io/projects/constrained-rl-in-regulated-domains/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Newsitem</title>
-      <link>https://vu-qda.github.io/news/newsitem/</link>
-      <pubDate>Tue, 18 Aug 2020 13:56:16 +0200</pubDate>
-      
-      <guid>https://vu-qda.github.io/news/newsitem/</guid>
-      <description>&lt;p&gt;Something new happened! You can write about it in a markdown document, which then gets rendered in
-HTML. A summary is generated automatically and displayed on places where a list of news items is
-shown. If you prefer to override the default behavior, you can enforce the end of the summary with
-a specific tag.&lt;/p&gt;</description>
+      <description>&lt;p&gt;This project is aimed at bridging the gap between regulators’ and
+agent’s behaviour representation and reinforcement learning under the resulting constraints.&lt;/p&gt;</description>
     </item>
     
     <item>

@@ -1,1 +1,5 @@
 /* No custom CSS :) */
+.justify-text{
+	text-align: justify;
+	text-justify: inter-word;
+}

@@ -3,8 +3,64 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://vu-qda.github.io/projects/efro/</loc>
+    <lastmod>2021-01-12T17:29:01+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://vu-qda.github.io/</loc>
-    <lastmod>2020-08-26T11:17:59+02:00</lastmod>
+    <lastmod>2021-01-12T17:29:01+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://vu-qda.github.io/projects/efficient-dl/</loc>
+    <lastmod>2021-01-12T17:21:38+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://vu-qda.github.io/projects/pippi/</loc>
+    <lastmod>2021-01-12T17:19:39+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://vu-qda.github.io/projects/rescued/</loc>
+    <lastmod>2021-01-12T17:19:03+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://vu-qda.github.io/projects/predictive-modeling-for-outlier-detection/</loc>
+    <lastmod>2021-01-12T17:17:49+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://vu-qda.github.io/projects/ml-for-ic/</loc>
+    <lastmod>2021-01-12T17:14:34+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://vu-qda.github.io/projects/constrained-personalization-of-smart-health-apps/</loc>
+    <lastmod>2021-01-12T17:13:24+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://vu-qda.github.io/projects/personalized-smart-health-apps/</loc>
+    <lastmod>2021-01-12T17:10:24+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -12,13 +68,6 @@
   <url>
     <loc>https://vu-qda.github.io/projects/constrained-rl-in-regulated-domains/</loc>
     <lastmod>2020-08-26T11:17:59+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://vu-qda.github.io/news/newsitem/</loc>
-    <lastmod>2020-08-18T13:56:16+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
