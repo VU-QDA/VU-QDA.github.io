@@ -6,11 +6,7 @@
     <description>Recent content in People on Quantitative Data Analytics</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 Aug 2020 14:48:10 +0200</lastBuildDate>
-    
-	<atom:link href="https://vu-qda.github.io/people/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 14 Aug 2020 14:48:10 +0200</lastBuildDate><atom:link href="https://vu-qda.github.io/people/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>https://vu-qda.github.io/people/ali_el_hassouni/</link>
@@ -98,6 +94,15 @@ The Netherlands</description>
       
       <guid>https://vu-qda.github.io/people/luis_silvestrin/</guid>
       <description>Luis is a PhD student at the Vrije Universiteit Amsterdam, working in the Quantitative Data Analytics group. His main research focus is in Deep Learning algorithms to sensorial data and time-series.</description>
+    </item>
+    
+    <item>
+      <title>PhD student</title>
+      <link>https://vu-qda.github.io/people/tariq_dam/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vu-qda.github.io/people/tariq_dam/</guid>
+      <description>Tariq Dam started in september 2020 as a PhD-student working on machine learning in the Intensive Care department as part or the Quantitative Data Analytics and Laboratory for Critical Care Computational Intelligence.</description>
     </item>
     
     <item>

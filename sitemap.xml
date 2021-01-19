@@ -154,6 +154,12 @@
   </url>
   
   <url>
+    <loc>https://vu-qda.github.io/people/tariq_dam/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://vu-qda.github.io/people/david_w_romero/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
