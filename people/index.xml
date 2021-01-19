@@ -127,6 +127,15 @@ My research is founded by the NWO as part of the Efficient Deep Learning project
       <guid>https://vu-qda.github.io/people/masoume_raeissi/</guid>
       <description>My areas of education is computer science, artificial intelligence, and robotic. My research mainly focuses on sequential decision making and reinforcement learning in multi-agent systems, where uncertainties, partial observations and multiple actors are the main challenges in such systems. Currently I am working on Deep Reinforcement Learning for Critical Decision Making on Covid-19 patients. It is a joint research project at Amsterdam UMC Intensive Care Unit and QDA group of Vrije Universiteit Amsterdam.</description>
     </item>
+
+    <item>
+      <title>PhD student</title>
+      <link>https://vu-qda.github.io/people/tariq_dam/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vu-qda.github.io/people/tariq_dam/</guid>
+      <description>Tariq Dam started in september 2020 as a PhD-student working on machine learning in the Intensive Care department as part or the Quantitative Data Analytics and Laboratory for Critical Care Computational Intelligence.</description>
+    </item>
     
   </channel>
 </rss>
