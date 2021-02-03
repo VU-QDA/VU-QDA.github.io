@@ -12,42 +12,6 @@
     
     
     <item>
-      <title></title>
-      <link>https://vu-qda.github.io/people/ali_el_hassouni/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vu-qda.github.io/people/ali_el_hassouni/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://vu-qda.github.io/people/eoin_grua/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vu-qda.github.io/people/eoin_grua/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://vu-qda.github.io/people/luca_roggeveen/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vu-qda.github.io/people/luca_roggeveen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://vu-qda.github.io/people/lucas_fleuren/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vu-qda.github.io/people/lucas_fleuren/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Assistant Professor</title>
       <link>https://vu-qda.github.io/people/vincent_francois-lavet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -111,12 +75,66 @@ The Netherlands</description>
     
     <item>
       <title>PhD. Student</title>
+      <link>https://vu-qda.github.io/people/anne_fischer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vu-qda.github.io/people/anne_fischer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PhD. Student</title>
       <link>https://vu-qda.github.io/people/david_w_romero/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://vu-qda.github.io/people/david_w_romero/</guid>
       <description>I am a 2nd year PhD Student at the Vrije Universiteit Amsterdam under supervision of Jakub Tomczak and Mark Hoogendoorn. My research is focused on the development of efficient deep learning architectures, particularly towards settings with scarce (labeled) data availability. To this end, I am specially interested in neural architectures involving (1) extensive parameter sharing (e.g. equivariant networks) and (2) attention mechanisms.
 My research is founded by the NWO as part of the Efficient Deep Learning project.</description>
+    </item>
+    
+    <item>
+      <title>PhD. student</title>
+      <link>https://vu-qda.github.io/people/ali_el_hassouni/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vu-qda.github.io/people/ali_el_hassouni/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PhD. student</title>
+      <link>https://vu-qda.github.io/people/eoin_grua/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vu-qda.github.io/people/eoin_grua/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PhD. student</title>
+      <link>https://vu-qda.github.io/people/luca_roggeveen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vu-qda.github.io/people/luca_roggeveen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PhD. student</title>
+      <link>https://vu-qda.github.io/people/lucas_fleuren/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vu-qda.github.io/people/lucas_fleuren/</guid>
+      <description>Lucas Fleuren is a PhD student and medical doctor in the intensive care unit of Amsterdam UMC lcoation VUmc working on building large-scale ICU datasets, developing clinically useful AI models, and bringing AI solutions to the bedside to improve patient outcomes</description>
+    </item>
+    
+    <item>
+      <title>PhD. student</title>
+      <link>https://vu-qda.github.io/people/olivier_moulin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vu-qda.github.io/people/olivier_moulin/</guid>
+      <description>Olivier Moulin is a PhD student in the Quantitative Data Analytics group of the Vrije Universiteit Amsterdam (VU). He is under the supervision of Mark Hoogendoorn (Quantitative Data Analytics, VU). Olivier&amp;rsquo;s PhD research is mainly on Deep Learning and Reinforcement Learning on structured data applied to ICU patient data.</description>
     </item>
     
     <item>

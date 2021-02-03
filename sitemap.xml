@@ -108,30 +108,6 @@
   </url>
   
   <url>
-    <loc>https://vu-qda.github.io/people/ali_el_hassouni/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://vu-qda.github.io/people/eoin_grua/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://vu-qda.github.io/people/luca_roggeveen/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://vu-qda.github.io/people/lucas_fleuren/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://vu-qda.github.io/people/vincent_francois-lavet/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -174,7 +150,43 @@
   </url>
   
   <url>
+    <loc>https://vu-qda.github.io/people/anne_fischer/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://vu-qda.github.io/people/david_w_romero/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://vu-qda.github.io/people/ali_el_hassouni/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://vu-qda.github.io/people/eoin_grua/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://vu-qda.github.io/people/luca_roggeveen/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://vu-qda.github.io/people/lucas_fleuren/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://vu-qda.github.io/people/olivier_moulin/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
