@@ -6,11 +6,7 @@
     <description>Recent content in People on Quantitative Data Analytics</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 Aug 2020 14:48:10 +0200</lastBuildDate>
-    
-	<atom:link href="https://vu-qda.github.io/people/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 14 Aug 2020 14:48:10 +0200</lastBuildDate><atom:link href="https://vu-qda.github.io/people/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Assistant Professor</title>
       <link>https://vu-qda.github.io/people/vincent_francois-lavet/</link>
@@ -88,7 +84,8 @@ The Netherlands</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://vu-qda.github.io/people/anne_fischer/</guid>
-      <description></description>
+      <description>My PhD project is a collaboration between the Computer Science department of the VU and the Obstetrics &amp;amp; Gynecology department of the Amsterdam UMC. The aim of the project is to investigate whether a machine learning model using electrohysterography (EHG), which is a noninvasive measurement of the uterine electrical activity, and standard clinical measurements can be used to predict premature labor.
+My project supervisors are prof. dr. Mark Hoogendoorn (Quantative Data Analytics, VU), dr.</description>
     </item>
     
     <item>

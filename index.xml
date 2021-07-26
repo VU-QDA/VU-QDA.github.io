@@ -6,11 +6,7 @@
     <description>Recent content on Quantitative Data Analytics</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 Jan 2021 10:09:31 +0100</lastBuildDate>
-    
-	<atom:link href="https://vu-qda.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 26 Jan 2021 10:09:31 +0100</lastBuildDate><atom:link href="https://vu-qda.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ICARE4OLD</title>
       <link>https://vu-qda.github.io/projects/icare4old/</link>
@@ -190,7 +186,8 @@ The Netherlands</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://vu-qda.github.io/people/anne_fischer/</guid>
-      <description></description>
+      <description>My PhD project is a collaboration between the Computer Science department of the VU and the Obstetrics &amp;amp; Gynecology department of the Amsterdam UMC. The aim of the project is to investigate whether a machine learning model using electrohysterography (EHG), which is a noninvasive measurement of the uterine electrical activity, and standard clinical measurements can be used to predict premature labor.
+My project supervisors are prof. dr. Mark Hoogendoorn (Quantative Data Analytics, VU), dr.</description>
     </item>
     
     <item>
