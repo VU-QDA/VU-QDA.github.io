@@ -6,7 +6,16 @@
     <description>Recent content on Quantitative Data Analytics</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 Jan 2021 10:09:31 +0100</lastBuildDate><atom:link href="https://vu-qda.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 09 Aug 2021 10:59:55 +0200</lastBuildDate><atom:link href="https://vu-qda.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bestrijding cybercrime met behulp van Kunstmatige Intelligentie</title>
+      <link>https://vu-qda.github.io/projects/cybercrime/</link>
+      <pubDate>Mon, 09 Aug 2021 10:59:55 +0200</pubDate>
+      
+      <guid>https://vu-qda.github.io/projects/cybercrime/</guid>
+      <description>Private-Public Collaboration with Dutch Ministry of Defence</description>
+    </item>
+    
     <item>
       <title>ICARE4OLD</title>
       <link>https://vu-qda.github.io/projects/icare4old/</link>
@@ -150,7 +159,16 @@ The Netherlands</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://vu-qda.github.io/people/jan_klein/</guid>
-      <description>Jan Klein is a PhD student in the Stochastics group of the Centrum Wiskunde &amp;amp; Informatica (CWI). He is under the supervision of prof. dr. Rob van der Mei (Stochastics, CWI), prof. dr. Sandjai Bhulai (Analytics &amp;amp; Optimization, Vrije Universiteit Amsterdam (VU)) and dr. Mark Hoogendoorn (Quantitative Data Analytics, VU). Jan&amp;rsquo;s research is in collaboration with the Dutch Ministry of the Interior and Kingdom Relations and focuses on anomaly detection in primarily the field of cybersecurity.</description>
+      <description>Jan Klein is a PhD student in the Stochastics group of the Centrum Wiskunde &amp;amp; Informatica (CWI). He is under the supervision of prof. dr. Rob van der Mei (Stochastics, CWI), prof. dr. Sandjai Bhulai (Analytics &amp;amp; Optimization, Vrije Universiteit Amsterdam (VU)) and prof. dr. Mark Hoogendoorn (Quantitative Data Analytics, VU). Jan&amp;rsquo;s research is in collaboration with the Dutch Ministry of the Interior and Kingdom Relations and focuses on anomaly detection in primarily the field of cybersecurity.</description>
+    </item>
+    
+    <item>
+      <title>PhD student</title>
+      <link>https://vu-qda.github.io/people/arwin_gansekoele/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vu-qda.github.io/people/arwin_gansekoele/</guid>
+      <description>Arwin Gansekoele is a PhD student in the Stochastics group of the Centrum Wiskunde &amp;amp; Informatica (CWI). He is under the supervision of prof. dr. Rob van der Mei (Stochastics, CWI), prof. dr. Sandjai Bhulai (Analytics &amp;amp; Optimization, Vrije Universiteit Amsterdam (VU)) and prof. dr. Mark Hoogendoorn (Quantitative Data Analytics, VU).</description>
     </item>
     
     <item>

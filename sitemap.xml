@@ -3,14 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://vu-qda.github.io/projects/icare4old/</loc>
-    <lastmod>2021-01-26T10:09:31+01:00</lastmod>
+    <loc>https://vu-qda.github.io/projects/cybercrime/</loc>
+    <lastmod>2021-08-09T10:59:55+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://vu-qda.github.io/</loc>
+    <lastmod>2021-08-09T10:59:55+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://vu-qda.github.io/projects/icare4old/</loc>
     <lastmod>2021-01-26T10:09:31+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -133,6 +140,12 @@
   
   <url>
     <loc>https://vu-qda.github.io/people/jan_klein/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://vu-qda.github.io/people/arwin_gansekoele/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
