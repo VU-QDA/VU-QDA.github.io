@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>People on Quantitative Data Analytics</title>
+    <title>People on Quantitative Data Analytics Vrije Universiteit</title>
     <link>https://vu-qda.github.io/people/</link>
-    <description>Recent content in People on Quantitative Data Analytics</description>
+    <description>Recent content in People on Quantitative Data Analytics Vrije Universiteit</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 14 Aug 2020 14:48:10 +0200</lastBuildDate><atom:link href="https://vu-qda.github.io/people/index.xml" rel="self" type="application/rss+xml" />
@@ -158,7 +158,7 @@ My research is founded by the NWO as part of the Efficient Deep Learning project
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://vu-qda.github.io/people/olivier_moulin/</guid>
-      <description>Olivier Moulin is a PhD student in the Quantitative Data Analytics group of the Vrije Universiteit Amsterdam (VU). He is under the supervision of Mark Hoogendoorn (Quantitative Data Analytics, VU). Olivier&amp;rsquo;s PhD research is mainly on Deep Learning and Reinforcement Learning on structured data applied to ICU patient data.</description>
+      <description>Olivier Moulin is a PhD student in the Quantitative Data Analytics group of the Vrije Universiteit Amsterdam (VU). He is under the supervision of Mark Hoogendoorn (Quantitative Data Analytics, VU). Olivier’s PhD research is mainly on Deep Reinforcement Learning and especially on Generalization / Transfer learning.</description>
     </item>
     
     <item>
