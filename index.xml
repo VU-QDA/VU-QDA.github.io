@@ -6,289 +6,230 @@
     <description>Recent content in Quantitative Data Analytics on Quantitative Data Analytics Vrije Universiteit</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Aug 2021 10:59:55 +0200</lastBuildDate><atom:link href="https://vu-qda.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 09 Aug 2021 10:59:55 +0200</lastBuildDate>
+    <atom:link href="https://vu-qda.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bestrijding cybercrime met behulp van Kunstmatige Intelligentie</title>
       <link>https://vu-qda.github.io/projects/cybercrime/</link>
       <pubDate>Mon, 09 Aug 2021 10:59:55 +0200</pubDate>
-      
       <guid>https://vu-qda.github.io/projects/cybercrime/</guid>
       <description>Private-Public Collaboration with Dutch Ministry of Defence</description>
     </item>
-    
     <item>
       <title>ICARE4OLD</title>
       <link>https://vu-qda.github.io/projects/icare4old/</link>
       <pubDate>Tue, 26 Jan 2021 10:09:31 +0100</pubDate>
-      
       <guid>https://vu-qda.github.io/projects/icare4old/</guid>
       <description>&lt;p&gt;The overall objective of the I-CARE4OLD project (H2020 EU project) is to develop high quality decision support for better prognostication of health trajectories, including treatment impact, in older care recipients with complex chronic conditions using linked real world data.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>COCOON</title>
       <link>https://vu-qda.github.io/projects/cocoon/</link>
       <pubDate>Tue, 26 Jan 2021 10:05:27 +0100</pubDate>
-      
       <guid>https://vu-qda.github.io/projects/cocoon/</guid>
       <description>&lt;p&gt;This project, which is funded by HealthHolland, concerns the prediction of pre-term birth using a variety of data sources (including Electrohysterography) using machine learning.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>EFRO Smart Maintenance</title>
       <link>https://vu-qda.github.io/projects/efro/</link>
       <pubDate>Tue, 12 Jan 2021 17:29:01 +0100</pubDate>
-      
       <guid>https://vu-qda.github.io/projects/efro/</guid>
       <description>&lt;p&gt;In this project, funded by the EU (EFRO), the goal is to use and improve machine learning techniques for predictive maintenance and optimization of maintenance.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Efficient Deep Learning</title>
       <link>https://vu-qda.github.io/projects/efficient-dl/</link>
       <pubDate>Tue, 12 Jan 2021 17:21:38 +0100</pubDate>
-      
       <guid>https://vu-qda.github.io/projects/efficient-dl/</guid>
       <description>&lt;p&gt;In this project, funded by NWO (TTW), the goal is to improve the efficiency of deep learning algorithms.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>PIPPI</title>
       <link>https://vu-qda.github.io/projects/pippi/</link>
       <pubDate>Tue, 12 Jan 2021 17:19:39 +0100</pubDate>
-      
       <guid>https://vu-qda.github.io/projects/pippi/</guid>
       <description>&lt;p&gt;This project concerns the identification of risk models for mental health problems among children and adolescents using data from general practitioners and the municipality health services.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>RESCUED</title>
       <link>https://vu-qda.github.io/projects/rescued/</link>
       <pubDate>Tue, 12 Jan 2021 17:19:03 +0100</pubDate>
-      
       <guid>https://vu-qda.github.io/projects/rescued/</guid>
       <description>&lt;p&gt;The identification of risk factors for cardiac arrest among diabetes patients is the main goal of this project.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Predictive Modeling for Outlier Detection</title>
       <link>https://vu-qda.github.io/projects/predictive-modeling-for-outlier-detection/</link>
       <pubDate>Tue, 12 Jan 2021 17:17:49 +0100</pubDate>
-      
       <guid>https://vu-qda.github.io/projects/predictive-modeling-for-outlier-detection/</guid>
       <description>&lt;p&gt;Predictive modeling for outlier detection for large datasets.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Machine Learning for Intensive Care</title>
       <link>https://vu-qda.github.io/projects/ml-for-ic/</link>
       <pubDate>Tue, 12 Jan 2021 17:14:34 +0100</pubDate>
-      
       <guid>https://vu-qda.github.io/projects/ml-for-ic/</guid>
       <description>&lt;p&gt;This project aims to develop predictive models based on Electronic Medical Records for the Intensive Care department at the VU University Medical Center using machine learning techniques.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Constrained Personalization of Smart Health Apps</title>
       <link>https://vu-qda.github.io/projects/constrained-personalization-of-smart-health-apps/</link>
       <pubDate>Tue, 12 Jan 2021 17:13:24 +0100</pubDate>
-      
       <guid>https://vu-qda.github.io/projects/constrained-personalization-of-smart-health-apps/</guid>
       <description>&lt;p&gt;In this project, we aim to develop techniques to personalize within certain boundaries.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Personalized Smart Health Apps</title>
       <link>https://vu-qda.github.io/projects/personalized-smart-health-apps/</link>
       <pubDate>Tue, 12 Jan 2021 17:10:24 +0100</pubDate>
-      
       <guid>https://vu-qda.github.io/projects/personalized-smart-health-apps/</guid>
       <description>&lt;p&gt;This project aims to develop techniques to learn to provide feedback and
 support to users in an effective way by means of health apps on their smart
 phone.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Reinforcement Learning in Regulated Domains</title>
       <link>https://vu-qda.github.io/projects/constrained-rl-in-regulated-domains/</link>
       <pubDate>Wed, 26 Aug 2020 11:17:59 +0200</pubDate>
-      
       <guid>https://vu-qda.github.io/projects/constrained-rl-in-regulated-domains/</guid>
       <description>&lt;p&gt;This project is aimed at bridging the gap between regulators’ and
 agent’s behaviour representation and reinforcement learning under the resulting constraints.&lt;/p&gt;</description>
     </item>
-    
+    <item>
+      <title>Assistant Professor</title>
+      <link>https://vu-qda.github.io/people/shujian_yu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vu-qda.github.io/people/shujian_yu/</guid>
+      <description>Shujian Yu is an assistant professor at the Department of Computer Science of the Vrije Universiteit Amsterdam. He received his Ph.D. degree in Electrical and Computer Engineering from the University of Florida in 2019, with a Ph.D. minor in Statistics. His research interests include machine learning, information theory and signal processing. He received the 2020 International Neural Networks Society (INNS) Aharon Katzir Young Investigator Award. He was also selected for the 2023 AAAI New Faculty Highlights.</description>
+    </item>
     <item>
       <title>Assistant Professor</title>
       <link>https://vu-qda.github.io/people/vincent_francois-lavet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://vu-qda.github.io/people/vincent_francois-lavet/</guid>
-      <description>I&amp;rsquo;m interested in deep reinforcement learning, particularly in the aspects related to generalization from limited data and how it is possible to integrate model-based and model-free learning. One of my recent works (AAAI-19) describes how both the model-based and model-free approaches can be integrated via a shared low-dimensional learned encoding of the environment that captures summarizing abstractions.
-With a particular focus on generalization, I also wrote an introduction to deep reinforcement learning (Foundations and Trends in Machine Learning) as well as a paper providing theoretical insights on bias and overfitting in the general context of POMDPs (JAIR).</description>
+      <description>Since 2020, Vincent Francois-Lavet is an assistant professor at the VU Amsterdam. His field of research is focused on deep learning and reinforcement learning where his main goal is to create agents that can learn how to perform sequential decision-making tasks from limited data. His research focuses in particular on the role of representation learning and how it is possible to integrate model-based and model-free learning.</description>
     </item>
-    
     <item>
       <title>Coordinator AI &amp; Health networks</title>
       <link>https://vu-qda.github.io/people/yvonne_blokland/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://vu-qda.github.io/people/yvonne_blokland/</guid>
-      <description>Yvonne is responsible for coordinating the activities of the newly established VU Campus Center Artificial Intelligence &amp;amp; Health. The aim of the Center is to fuel multidisciplinary collaborations and improve the impact and visibility of AI research applied to healthcare challenges. Connections are also made with related research networks such as the Amsterdam AI Coalition and Amsterdam Medical Data Science. Yvonne obtained her PhD on the topic of Brain-Computer Interfacing from RadboudUMC and the Donders Institute for Brain, Cognition and Behaviour in Nijmegen.</description>
+      <description>Yvonne Blokland is the coordinator of the VU Campus Center for AI &amp;amp; Health. In this role, she connects researchers from both VU and Amsterdam UMC working at the intersection of AI, health and care. The aim of the center is to further mutual understanding between technical, medical and social researchers, foster multidisciplinary collaborations, and ultimately contribute to real-life impact on health and health care. Yvonne has a PhD on the topic of Brain-Computer Interfacing from Radboud University Nijmegen.</description>
     </item>
-    
     <item>
       <title>Full Professor</title>
       <link>https://vu-qda.github.io/people/mark/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://vu-qda.github.io/people/mark/</guid>
-      <description>Location 10A-87 of the NU.VU building
-Address Dr. Mark Hoogendoorn
-Vrije Universiteit Amsterdam
-Faculty of Science
-Department of Computer Science
-De Boelelaan 1111
-1081 HV Amsterdam
-The Netherlands</description>
+      <description>I am a Full Professor of Artificial Intelligence at the Department of Computer Science of the Vrije Universiteit Amsterdam and chair of the Quantitative Data Analytics group. My research focuses on machine learning and its applications, the latter primarily applied in the domain of health and wellbeing. The research ranges from more fundamental machine learning research (including efficiency, explainability, safety, incorporating domain knowledge, and hybrid intelligence) to application driven research focusing on for instance predictive modeling for diseases, personalized therapies and support systems, and eHealth and mHealth systems.</description>
     </item>
-    
     <item>
-      <title>PhD Student</title>
-      <link>https://vu-qda.github.io/people/jan_klein/</link>
+      <title>Junior Teacher</title>
+      <link>https://vu-qda.github.io/people/bob_borsboom/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vu-qda.github.io/people/jan_klein/</guid>
-      <description>Jan Klein is a PhD student in the Stochastics group of the Centrum Wiskunde &amp;amp; Informatica (CWI). He is under the supervision of prof. dr. Rob van der Mei (Stochastics, CWI), prof. dr. Sandjai Bhulai (Analytics &amp;amp; Optimization, Vrije Universiteit Amsterdam (VU)) and prof. dr. Mark Hoogendoorn (Quantitative Data Analytics, VU). Jan&amp;rsquo;s research is in collaboration with the Dutch Ministry of the Interior and Kingdom Relations and focuses on anomaly detection in primarily the field of cybersecurity.</description>
+      <guid>https://vu-qda.github.io/people/bob_borsboom/</guid>
+      <description>Bob Borsboom is a data scientist, currently being a junior teacher for the bachelor and master Artificial Intelligence at the Vrije Universiteit. He teacher courses related to machine learning, evolutionary computing, optimization techniques, reinforcement learning and robots. Next to that he supervises students who do their bachelor thesis. He has a master&amp;rsquo;s degree in Artificial Intelligence at the UvA and a Bachelor’s degree in Economics at the HvA. He has a few years or working experience at an audit firm, a bank and a start up.</description>
     </item>
-    
     <item>
       <title>PhD student</title>
       <link>https://vu-qda.github.io/people/arwin_gansekoele/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://vu-qda.github.io/people/arwin_gansekoele/</guid>
       <description>Arwin Gansekoele is a PhD student in the Stochastics group of the Centrum Wiskunde &amp;amp; Informatica (CWI). He is under the supervision of prof. dr. Rob van der Mei (Stochastics, CWI), prof. dr. Sandjai Bhulai (Analytics &amp;amp; Optimization, Vrije Universiteit Amsterdam (VU)) and prof. dr. Mark Hoogendoorn (Quantitative Data Analytics, VU).</description>
     </item>
-    
-    <item>
-      <title>PhD student</title>
-      <link>https://vu-qda.github.io/people/floris_den_hengst/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vu-qda.github.io/people/floris_den_hengst/</guid>
-      <description>Floris den Hengst is a PhD. student in the Quantitative Data Analytics and Knowledge Representation and Reasoning groups of the Vrije Universiteit Amsterdam.</description>
-    </item>
-    
     <item>
       <title>PhD student</title>
       <link>https://vu-qda.github.io/people/luis_silvestrin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://vu-qda.github.io/people/luis_silvestrin/</guid>
       <description>Luis is a PhD student at the Vrije Universiteit Amsterdam, working in the Quantitative Data Analytics group. His main research focus is in Deep Learning algorithms to sensorial data and time-series.</description>
     </item>
-    
-    <item>
-      <title>PhD student</title>
-      <link>https://vu-qda.github.io/people/martin_haan/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vu-qda.github.io/people/martin_haan/</guid>
-      <description>Martin Haan is a medical doctor at the intensive care unit (ICU) of Amsterdam UMC location VUmc and started as a PhD student in March 2021 mainly working on the ICUdata-project, a collaboration by Dutch ICUs to engage in large scale data sharing on critically ill patients to improved quality of care and patient outcomes.</description>
-    </item>
-    
     <item>
       <title>PhD student</title>
       <link>https://vu-qda.github.io/people/tariq_dam/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://vu-qda.github.io/people/tariq_dam/</guid>
-      <description>Tariq Dam started in september 2020 as a PhD-student working on machine learning in the Intensive Care department as part or the Quantitative Data Analytics and Laboratory for Critical Care Computational Intelligence.</description>
+      <description>Tariq Dam is a Medical Doctor (MD) turned data scientist in pursue of a PhD in the intersection of Intensive Care medicine and Artificial Intelligence, under supervision of dr. Paul Elbers, prof.dr. Mark Hoogendoorn and prof.dr. Armand Girbes.
+With work focussing on (inter)national collaboration for data sharing, standardization and analytics, a collaboration succeeded in forming the Dutch Data Warehouse during the COVID-19 pandemic, which continues as ICUdata to facilitate large scale research to improve patient outcomes.</description>
     </item>
-    
     <item>
-      <title>PhD. Student</title>
+      <title>PhD Student</title>
       <link>https://vu-qda.github.io/people/anne_fischer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://vu-qda.github.io/people/anne_fischer/</guid>
-      <description>My PhD project is a collaboration between the Computer Science department of the VU and the Obstetrics &amp;amp; Gynecology department of the Amsterdam UMC. The aim of the project is to investigate whether a machine learning model using electrohysterography (EHG), which is a noninvasive measurement of the uterine electrical activity, and standard clinical measurements can be used to predict premature labor.
-My project supervisors are prof. dr. Mark Hoogendoorn (Quantative Data Analytics, VU), dr.</description>
+      <description>Anne&amp;rsquo;s PhD project represents a collaboration between the Computer Science department of the VU and the Obstetrics &amp;amp; Gynecology department of the Amsterdam UMC. The primary objective of her research is to assess the potential of a machine learning model utilizing electrohysterography (EHG), a noninvasive measure of uterine electrical activity, in conjunction with standard clinical metrics to predict premature birth for women with threatened preterm labor.
+Anne&amp;rsquo;s project is supervised by Professor Dr.</description>
     </item>
-    
     <item>
-      <title>PhD. Student</title>
-      <link>https://vu-qda.github.io/people/david_w_romero/</link>
+      <title>PhD Student</title>
+      <link>https://vu-qda.github.io/people/buelent_undes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vu-qda.github.io/people/david_w_romero/</guid>
-      <description>I am a 2nd year PhD Student at the Vrije Universiteit Amsterdam under supervision of Jakub Tomczak and Mark Hoogendoorn. My research is focused on the development of efficient deep learning architectures, particularly towards settings with scarce (labeled) data availability. To this end, I am specially interested in neural architectures involving (1) extensive parameter sharing (e.g. equivariant networks) and (2) attention mechanisms.
-My research is founded by the NWO as part of the Efficient Deep Learning project.</description>
+      <guid>https://vu-qda.github.io/people/buelent_undes/</guid>
+      <description>Bülent Ündes is a data scientist and economist, currently pursuing his Ph.D. in the quantitative data analytics group at Vrije Universiteit Amsterdam under the supervision of Mark Hoogendoorn (Vrije Universiteit Amsterdam) and Bernard Veldkamp (University of Twente). His research focuses on trustworthy AI, efficient deep learning, and probabilistic machine learning, with a particular interest in the intersection of AI and healthcare. Previously, he worked as a junior lecturer at the Vrije Universiteit Amsterdam.</description>
     </item>
-    
     <item>
-      <title>PhD. student</title>
-      <link>https://vu-qda.github.io/people/ali_el_hassouni/</link>
+      <title>PhD Student</title>
+      <link>https://vu-qda.github.io/people/jacob_kooi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vu-qda.github.io/people/ali_el_hassouni/</guid>
-      <description>I am a Ph.D. candidate in the Computational Intelligence group at the Vrije Universiteit Amsterdam (VU) and in Mobiquity’s Data Science and Analytics team. I’m interested in data efficient (Deep) Reinforcement Learning (RL) applied to real-world problems. To achieve this I’ve developed a simulator for daily human behavior/activities powered by generative models (GANs) and recurrent neural networks (LSTMs). The simulator is used as a testbed for novel data efficient RL algorithms.</description>
+      <guid>https://vu-qda.github.io/people/jacob_kooi/</guid>
+      <description>Jacob Kooi is a deep learning researcher now pursuing a PhD in the quantitative data analytics group at the Vrije Universiteit Amsterdam under the supervision of Mark Hoogendoorn and Vincent François-Lavet. His research focuses on the field of Representation Learning and Reinforcement Learning. Prior to this, Jacob graduated with honors at the Technische Universiteit Delft in Control Theory &amp;amp; Deep Learning Robotics.</description>
     </item>
-    
     <item>
-      <title>PhD. student</title>
-      <link>https://vu-qda.github.io/people/eoin_grua/</link>
+      <title>PhD Student</title>
+      <link>https://vu-qda.github.io/people/louk_smalbil/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vu-qda.github.io/people/eoin_grua/</guid>
-      <description></description>
+      <guid>https://vu-qda.github.io/people/louk_smalbil/</guid>
+      <description>I am a PhD Candidate in Machine Learning. My research focus is causal machine learning. I mainly work in the domains of machine learning for causal inference and causal reinforcement learning. As such, I am particularly interested in developing machine learning models that can answer causal questions. Most of my work is theory-driven, combining insights from the fields of deep learning, causality, information theory and statistical inference. My goal is to develop more robust machine learning models that can be used reliably and safely in practice.</description>
     </item>
-    
     <item>
-      <title>PhD. student</title>
-      <link>https://vu-qda.github.io/people/luca_roggeveen/</link>
+      <title>PhD Student</title>
+      <link>https://vu-qda.github.io/people/rutger_vanderlinden/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vu-qda.github.io/people/luca_roggeveen/</guid>
-      <description></description>
+      <guid>https://vu-qda.github.io/people/rutger_vanderlinden/</guid>
+      <description>Rutger van der Linden is a PhD candidate in the Quantitative Data Analytics Group. During the bachelor’s degree Medical Informatics at the University of Amsterdam (UvA), he discovered his interest in the use of AI for enhancing health(care). This fascination made him pursue a master&amp;rsquo;s degree in Artificial Intelligence at the Vrije Universiteit (VU), specializing in ‘AI for health’. His current research focuses on developing and implementing reinforcement learning algorithms to enhance the mental resilience of European citizens as part of a large mental health project (RECONNECTED).</description>
     </item>
-    
     <item>
-      <title>PhD. student</title>
-      <link>https://vu-qda.github.io/people/lucas_fleuren/</link>
+      <title>PhD student / Medical Doctor</title>
+      <link>https://vu-qda.github.io/people/martijn_otten/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vu-qda.github.io/people/lucas_fleuren/</guid>
-      <description>Lucas Fleuren is a PhD student and medical doctor in the intensive care unit of Amsterdam UMC lcoation VUmc working on building large-scale ICU datasets, developing clinically useful AI models, and bringing AI solutions to the bedside to improve patient outcomes</description>
+      <guid>https://vu-qda.github.io/people/martijn_otten/</guid>
+      <description>Martijn Otten is a resident in the Intensive Care of the Amsterdam UMC and a PhD candidate in the field of Big Data in het ICU. He is currently contributing to the ICUdata project, where highly granular Electronic Health Record data from multiple Dutch hospitals is brought together for a research database. Martijn leverages advanced techniques like Reinforcement Learning and Transfer Learning to enhance patient care and optimize treatment strategies in the ICU.</description>
     </item>
-    
+    <item>
+      <title>PhD Student / Medical Doctor</title>
+      <link>https://vu-qda.github.io/people/ameet_jagesar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vu-qda.github.io/people/ameet_jagesar/</guid>
+      <description>Ameet Jagesar is a Medical Doctor and a PhD candidate in the Intensive Care Unit, mainly focusing on the applications of Artificial Intelligence. He is currently contributing to the ICUdata project, a national initiative to share Electronic Health Record databases from multiple Intensive Care Units and unify them in a large, standardized research database. Specific interests in the field of AI in medicine include reinforcement learning and causal inference.</description>
+    </item>
     <item>
       <title>PhD. student</title>
       <link>https://vu-qda.github.io/people/olivier_moulin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://vu-qda.github.io/people/olivier_moulin/</guid>
       <description>Olivier Moulin is a PhD student in the Quantitative Data Analytics group of the Vrije Universiteit Amsterdam (VU). He is under the supervision of Mark Hoogendoorn (Quantitative Data Analytics, VU). Olivier’s PhD research is mainly on Deep Reinforcement Learning and especially on Generalization / Transfer learning.</description>
     </item>
-    
+    <item>
+      <title>PhD. Student</title>
+      <link>https://vu-qda.github.io/people/david_w_romero/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vu-qda.github.io/people/david_w_romero/</guid>
+      <description>I am a 2nd year PhD Student at the Vrije Universiteit Amsterdam under supervision of Jakub Tomczak and Mark Hoogendoorn. My research is focused on the development of efficient deep learning architectures, particularly towards settings with scarce (labeled) data availability. To this end, I am specially interested in neural architectures involving (1) extensive parameter sharing (e.g. equivariant networks) and (2) attention mechanisms.
+My research is founded by the NWO as part of the Efficient Deep Learning project.</description>
+    </item>
     <item>
       <title>Postdoc</title>
       <link>https://vu-qda.github.io/people/frank_bennis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://vu-qda.github.io/people/frank_bennis/</guid>
       <description>Frank Bennis started in September 2020 as a postdoctoral researcher in the Quantitative Data Analytics group under supervision of dr. Mark Hoogendoorn. He focuses on the identification of parameters and subsequently the prediction of Sudden Cardiac Death in patients based on general practicioner (GP) data. He furthermore collaborates with the Nederlands Instituut voor Onderzoek van de Gezondheidszorg for the prediction of multiple cardiac diseases from GP data. With his background in Technical Medicine, he aims to establish the connection between data science and medicine.</description>
     </item>
-    
     <item>
-      <title>Postdoctoral Researcher</title>
-      <link>https://vu-qda.github.io/people/masoume_raeissi/</link>
+      <title>Visiting professor, Department of Computer Science, VU Universiteit / Full Professor of Translational AI in Laboratory Medicine, Amsterdam UMC, Department of Medicine, VU Universiteit</title>
+      <link>https://vu-qda.github.io/people/martijn_schut/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vu-qda.github.io/people/masoume_raeissi/</guid>
-      <description>My areas of education is computer science, artificial intelligence, and robotic. My research mainly focuses on sequential decision making and reinforcement learning in multi-agent systems, where uncertainties, partial observations and multiple actors are the main challenges in such systems. Currently I am working on Deep Reinforcement Learning for Critical Decision Making on Covid-19 patients. It is a joint research project at Amsterdam UMC Intensive Care Unit and QDA group of Vrije Universiteit Amsterdam.</description>
+      <guid>https://vu-qda.github.io/people/martijn_schut/</guid>
+      <description>Prof. Schut received his training in Artificial Intelligence and Computer Science in the Netherlands and United Kingdom. His research interests are the development and implementation of medical AI models, with a focus on methodological approaches to bring theory into practice. He conducted studies with colleagues in the clinical laboratory and various medical specialties including (but not limited to) oncology, cardiology, geriatrics, pediatrics, nephrology as well as different hospital facilities such as emergency and intensive care.</description>
     </item>
-    
   </channel>
 </rss>
